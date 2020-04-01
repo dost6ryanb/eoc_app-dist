@@ -1,0 +1,53 @@
+[
+  {
+    "province": "AKLAN",
+    "pui": {
+      "admitted": 2,
+      "outpatient": 25,
+      "discharged": 12,
+      "mortality": 0
+    },
+    "confirmed": {
+      "positive": 0,
+      "negative": 10,
+      "pending": 5,
+      "not_done": 24,
+      "others": 0
+    },
+    "pum": 4790
+  },
+  {
+    "province": "Iloilo City",
+    "pui": {
+      "admitted": 11,
+      "outpatient": 13,
+      "discharged": 3,
+      "mortality": 1
+    },
+    "confirmed": {
+      "positive": 0,
+      "negative": 11,
+      "pending": 7,
+      "not_done": 10,
+      "others": 0
+    },
+    "pum": 2020
+  },
+  {
+    "province": "Negros Occidental",
+    "pui": {
+      "admitted": 10,
+      "outpatient": 7,
+      "discharged": 6,
+      "mortality": 1
+    },
+    "confirmed": {
+      "positive": 0,
+      "negative": 8,
+      "pending": 4,
+      "not_done": 11,
+      "others": 1
+    },
+    "pum": 8969
+  }
+]

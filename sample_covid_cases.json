@@ -1,0 +1,82 @@
+{
+  "date": "May 28, 2020",
+  "time": "12 NN",
+  "total": {
+    "confirmed_infections": 6,
+    "confirmed_deaths": 6,
+    "confirmed_recoveries": 6,
+    "pum": 9999,
+    "pui": 999
+  },
+  "summary": [
+    {
+      "name": "Aklan",
+      "confirmed_infections": 0,
+      "confirmed_deaths": 0,
+      "confirmed_recoveries": 0,
+      "pum": 4444,
+      "pui": 444
+    },
+    {
+      "name": "Iloilo City",
+      "confirmed_infections": 2,
+      "confirmed_deaths": 0,
+      "confirmed_recoveries": 0,
+      "pum": 2222,
+      "pui": 22
+    },
+    {
+      "name": "Iloilo",
+      "confirmed_infections": 1,
+      "confirmed_deaths": 0,
+      "confirmed_recoveries": 0,
+      "pum": 7777,
+      "pui": 77
+    }
+  ],
+  "changes": {
+    "confirmed_infections": "+2",
+    "confirmed_deaths": "+3",
+    "confirmed_recoveries": "+1",
+    "pum": "-100",
+    "pui": "+2"
+  },
+  "data": [
+    {
+      "citymunCode": "063020",
+      "citymun": "Guimbal",
+      "confirmed_infections": 3,
+      "confirmed_deaths": 3,
+      "confirmed_recoveries": 3,
+      "pum": 300,
+      "pui": 10
+    },
+    {
+      "citymunCode": "063022",
+      "citymun": "Iloilo City",
+      "confirmed_infections": 2,
+      "confirmed_deaths": 2,
+      "confirmed_recoveries": 2,
+      "pum": 2020,
+      "pui": 28
+    },
+    {
+      "citymunCode": "064501",
+      "citymun": "Bacolod City",
+      "confirmed_infections": 1,
+      "confirmed_deaths": 1,
+      "confirmed_recoveries": 1,
+      "pum": 599,
+      "pui": 67
+    },
+    {
+      "citymunCode": "061906",
+      "citymun": "Jamindan",
+      "confirmed_infections": 0,
+      "confirmed_deaths": 0,
+      "confirmed_recoveries": 0,
+      "pum": 143,
+      "pui": 44
+    }
+  ]
+}
