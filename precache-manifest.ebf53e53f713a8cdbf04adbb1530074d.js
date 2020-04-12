@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "414caea2f448b337a0c1",
-    "url": "/css/app.0a32bde3.css"
+    "revision": "b0196590b29cbbe5edbd",
+    "url": "/css/app.7855b6cf.css"
   },
   {
-    "revision": "4e63be9f119756bdbd6e",
-    "url": "/css/chunk-vendors.8b82a215.css"
+    "revision": "2a0a19fde17040bd2c27",
+    "url": "/css/chunk-vendors.3c0b5695.css"
   },
   {
-    "revision": "1aa58cfb85d4f8dc7b1f",
+    "revision": "2496ad9faf33378a766d",
     "url": "/css/login.4c2b7a3a.css"
   },
   {
-    "revision": "6313392782d7535ef635",
-    "url": "/css/pui.fef05acd.css"
+    "revision": "23754f9750be0a3b3ab4",
+    "url": "/css/pui.5596b09b.css"
   },
   {
     "revision": "1ba2ae710d927f13d483fd5d1e548c9b",
@@ -80,32 +80,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/icons/safari-pinned-tab.svg"
   },
   {
-    "revision": "e2a9b9dd2cd454e93a94108f6d9f1d1b",
+    "revision": "7ef7b52d5bc7150a90ca578810fa42fa",
     "url": "/index.html"
   },
   {
-    "revision": "421b47cfc581d9e4f82e",
-    "url": "/js/about.f14d52d7.js"
+    "revision": "1322baba678585e26bdf",
+    "url": "/js/about.4e10c52e.js"
   },
   {
-    "revision": "414caea2f448b337a0c1",
-    "url": "/js/app.1ad94223.js"
+    "revision": "b0196590b29cbbe5edbd",
+    "url": "/js/app.0ac95acb.js"
   },
   {
-    "revision": "4e63be9f119756bdbd6e",
-    "url": "/js/chunk-vendors.8fe5cd6f.js"
+    "revision": "2a0a19fde17040bd2c27",
+    "url": "/js/chunk-vendors.3ea3adc8.js"
   },
   {
-    "revision": "1aa58cfb85d4f8dc7b1f",
-    "url": "/js/login.aaa26356.js"
+    "revision": "2496ad9faf33378a766d",
+    "url": "/js/login.251fe46a.js"
   },
   {
-    "revision": "9373bd07a9e94746aafa",
-    "url": "/js/logout.a5b33319.js"
+    "revision": "6e032e13bdc2c46068e5",
+    "url": "/js/logout.d2145223.js"
   },
   {
-    "revision": "6313392782d7535ef635",
-    "url": "/js/pui.1cdec728.js"
+    "revision": "23754f9750be0a3b3ab4",
+    "url": "/js/pui.ac1be1c9.js"
   },
   {
     "revision": "0d172d3f19c509127539f2830f50049f",

@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(a,n,t){"use strict";t.r(n);var o=function(){var a=this,n=a.$createElement,t=a._self._c||n;return t("v-row",[t("v-col",[t("h1",[a._v("Bantay COVID-19 by DOSTVI. Data from DOH R6")])])],1)},e=[],l=t("2877"),r=t("6544"),u=t.n(r),c=t("62ad"),s=t("0fd9"),w={},f=Object(l["a"])(w,o,e,!1,null,null,null);n["default"]=f.exports;u()(f,{VCol:c["a"],VRow:s["a"]})}}]);
-//# sourceMappingURL=about.f14d52d7.js.map
+//# sourceMappingURL=about.4e10c52e.js.map

@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["logout"],{c100:function(t,e,o){"use strict";o.r(e);var n=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},u=[function(){var t=this,e=t.$createElement,o=t._self._c||e;return o("div",[o("h1",[t._v("This is LOGOUT.vue")]),o("h2",[t._v("You have been successfully logged out")])])}],c=o("4360"),s={name:"Logout",mounted:function(){this.onLogout()},methods:{onLogout:function(){var t=this;c["a"].dispatch("logout").then((function(){t.$router.push({name:"home"})})).catch((function(){t.$router.push({name:"home"})}))}}},a=s,i=o("2877"),h=Object(i["a"])(a,n,u,!1,null,"4a71bdfd",null);e["default"]=h.exports}}]);
-//# sourceMappingURL=logout.a5b33319.js.map
+//# sourceMappingURL=logout.d2145223.js.map
